@@ -1,0 +1,16 @@
+{
+  "name": "vectordb",
+  "version": "1.0.0",
+  "description": "This repository is for setting up the Chroma DB.",
+  "main": "chroma.js",
+  "scripts": {
+    "start": "node chroma.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "chromadb": "^1.8.1",
+    "chromadb-default-embed": "^2.13.2",
+    "express": "^4.19.2"
+  }
+}
